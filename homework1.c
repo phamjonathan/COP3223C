@@ -24,4 +24,55 @@ return sum;
 }
 
 void PrintDivisors(unsigned int n)
+{
+    // This is classifiying numbers and integers from 1 to n
+    printf("\nDivisors of %u:",n);
+    for(unsigned int i=1;i<=n;i++)
+    {
+        //
+        if(n%i==0);
+        {
+            printf("%u,",i);
+        }
+    }
+}
 
+unsigned long GetBionimialCoefficient(unsigned int n, unsigned int m)
+{
+    unsigned long result, numerator=1, denominator=1;
+
+    // This calculates the numerator
+    for(unsigned int i=n;i>m;i--)
+    {
+        numerator = numerator * i;
+    }
+
+    // This calculates of Denominator
+    for(unsigned int i=n-m;i>=1;i--)
+    {
+        denominator = denominator * i;
+    }
+
+    result = numerator/denominator;
+
+    return result;
+}
+
+int main()
+{
+    unsigned int sum;
+    unsigned long coefficient;
+
+    // We are making a call action for SumOfDigits
+    sum = SumOfDigits(17239);
+    printf("Sum of Digits: %u", sum);
+
+    // We are making a call action for PrintDivisors
+    PrintDivisors(3150);
+
+    // We are making a call action for GetBinomialCoefficient
+    coefficient = GetBionimialCoefficient(5,2);
+    printf("\nBinomial Coefficient: %lu",coefficient);
+
+    return 0;
+}
