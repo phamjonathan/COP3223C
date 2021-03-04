@@ -20,3 +20,17 @@ In Quiz 1, we had to debug on why the function doesn't work correctly. There wer
 
 ## Overview
 In Quiz 2, we had to figure out how to compile a working source file. By bringing it together as one unit it'll be able to work globally. Troubleshooting, learning that we have to import and export we specifically used 'extern' to reference back to our main file. 
+
+# Midterm Exam 1
+2 Coding & 2 Computational problems
+Please, refer to the Exam1.c file
+
+## Overview
+
+## Screenshots
+
+#### Coding Problem 3
+![Screen Shot 2021-03-03 at 6 24 29 PM](https://user-images.githubusercontent.com/55514757/109889412-554a6200-7c53-11eb-9a40-8657bc14dfcb.png)
+
+#### Coding Problem 4
+![Screen Shot 2021-03-03 at 4 28 54 PM](https://user-images.githubusercontent.com/55514757/109889521-862a9700-7c53-11eb-8143-1b8bf22ee3d3.png)
