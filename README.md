@@ -11,6 +11,16 @@ This is a target oriented homework assignment consisting of 3 functions to creat
 
 <img width="1102" alt="Screen Shot 2021-02-02 at 7 34 59 PM" src="https://user-images.githubusercontent.com/55514757/106681094-d0095a00-658d-11eb-8e57-981866a12c3f.png">
 
+# Homework 2
+
+## Overview
+
+
+## Screenshots
+
+<img width="666" alt="Screen Shot 2021-03-05 at 10 19 18 PM" src="https://user-images.githubusercontent.com/55514757/110193308-3be71880-7e01-11eb-99fd-238d35ebe614.png">
+
+
 # Quiz 1
 
 ## Overview
