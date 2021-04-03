@@ -21,6 +21,14 @@ This is a target oriented homework assignment consisting of 3 functions to creat
 <img width="666" alt="Screen Shot 2021-03-05 at 10 19 18 PM" src="https://user-images.githubusercontent.com/55514757/110193308-3be71880-7e01-11eb-99fd-238d35ebe614.png">
 
 
+# Homework 3
+
+## Overview
+
+## Screenshots
+
+<img width="696" alt="Screen Shot 2021-04-02 at 9 57 50 PM" src="https://user-images.githubusercontent.com/55514757/113466071-de95b580-9406-11eb-9757-972d32577e72.png">
+
 # Quiz 1
 
 ## Overview
@@ -44,3 +52,11 @@ Please, refer to the Exam1.c file
 
 #### Coding Problem 4
 ![Screen Shot 2021-03-03 at 4 28 54 PM](https://user-images.githubusercontent.com/55514757/109889521-862a9700-7c53-11eb-8143-1b8bf22ee3d3.png)
+
+# Midterm Exam 2
+2 Coding & 2 Computational problems
+Please, refer to the Exam2.c file
+
+## Overview
+
+## Screenshots
