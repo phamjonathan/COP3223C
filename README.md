@@ -29,6 +29,24 @@ This is a target oriented homework assignment consisting of 3 functions to creat
 
 <img width="696" alt="Screen Shot 2021-04-02 at 9 57 50 PM" src="https://user-images.githubusercontent.com/55514757/113466071-de95b580-9406-11eb-9757-972d32577e72.png">
 
+# Homework 4 (incomplete)
+
+## Overview
+
+## Screenshots
+
+
+
+# Homework 5
+
+## Overview
+
+## Screenshots
+
+<img width="564" alt="Screen Shot 2021-04-23 at 11 53 38 PM" src="https://user-images.githubusercontent.com/55514757/115946528-d540bb80-a48f-11eb-950d-900458503420.png">
+
+<img width="624" alt="Screen Shot 2021-04-23 at 11 53 27 PM" src="https://user-images.githubusercontent.com/55514757/115946534-db369c80-a48f-11eb-910d-ee2852225f42.png">
+
 # Quiz 1
 
 ## Overview
