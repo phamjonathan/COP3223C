@@ -78,3 +78,17 @@ Please, refer to the Exam2.c file
 ## Overview
 
 ## Screenshots
+
+# Final Exam 
+2 Conceptual & 2 Coding Problems
+Please, refer to the FinalExam.c file
+
+## Overview
+
+## Screenshots
+
+Coding Problem 5
+<img width="341" alt="Screen Shot 2021-04-30 at 10 09 18 PM" src="https://user-images.githubusercontent.com/55514757/116768750-0d537b80-aa07-11eb-8c68-85186fd2ee0b.png">
+
+Coding Problem 6
+<img width="447" alt="Screen Shot 2021-04-30 at 10 43 45 PM" src="https://user-images.githubusercontent.com/55514757/116768754-104e6c00-aa07-11eb-8d65-87711d5d5086.png">
